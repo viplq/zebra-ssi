@@ -22,7 +22,7 @@ Suffix 2 03 	  09 C6 04 00 FF 64 10 6A 03 FD 4D
 
 Presentation (Blink) 07 C6 04 00 FF 8A 07 FD 9F
 
-###Enable Interleaved 2 of 5          07 C6 04 00 FF 06 01 FE 29
+### Enable Interleaved 2 of 5          07 C6 04 00 FF 06 01 FE 29
 Enable Code 93                     07 C6 04 00 FF 09 01 FE 26
 Enable Codabar                     07 C6 04 00 FF 07 01 FE 28
 Enable MSI						             07 C6 04 00 FF 0B 01 FE 24
