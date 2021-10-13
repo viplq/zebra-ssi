@@ -380,6 +380,7 @@ public class ComPort extends BasePortAbstract implements SerialPortEventListener
         port.initPort();
 
         port.sendCommand(HexUtil.decodeHex(DATA_AS_IS_BEEPS.replace(" ", "")));
+        port.sendCommand(HexUtil.decodeHex(PREFIX_DATA_SUFFIX1.replace(" ", "")));
 
     }
 }
